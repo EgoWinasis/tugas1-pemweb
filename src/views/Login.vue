@@ -93,7 +93,7 @@ function login() {
     return
   }
 
-  localStorage.setItem('sitta_user', JSON.stringify(user))
+ localStorage.setItem('sitta_user', JSON.stringify(user)) 
 
   router.push('/dashboard')
 }
