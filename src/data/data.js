@@ -57,7 +57,7 @@ export const dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "2",
     stok: 548,
-    cover: "img/pengantar_komunikasi.jpg"
+    cover: "/img/pengantar_komunikasi.jpg"
   },
   {
     kodeLokasi: "0JKT01",
@@ -66,7 +66,7 @@ export const dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "3",
     stok: 392,
-    cover: "img/manajemen_keuangan.jpg"
+    cover: "/img/manajemen_keuangan.jpg"
   },
   {
     kodeLokasi: "0SBY02",
@@ -75,7 +75,7 @@ export const dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "1",
     stok: 278,
-    cover: "img/kepemimpinan.jpg"
+    cover: "/img/kepemimpinan.jpg"
   },
   {
     kodeLokasi: "0MLG01",
@@ -84,7 +84,7 @@ export const dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "2",
     stok: 165,
-    cover: "img/mikrobiologi.jpg"
+    cover: "/img/mikrobiologi.jpg"
   },
   {
     kodeLokasi: "0UPBJJBDG",
@@ -93,7 +93,7 @@ export const dataBahanAjar = [
     jenisBarang: "BMP",
     edisi: "4",
     stok: 204,
-    cover: "img/paud_perkembangan.jpeg"
+    cover: "/img/paud_perkembangan.jpeg"
   }
 ]
 
