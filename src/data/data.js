@@ -38,7 +38,7 @@ export const dataPengguna = [
     password: "admin123",
     role: "Administrator",
     lokasi: "Pusat"
-  }
+  },
   {
     id: 6,
     nama: "Ego Winasis",
