@@ -69,8 +69,8 @@ import { dataPengguna } from '../data/data.js'
 
 const router = useRouter()
 
-const email = ref('')
-const password = ref('')
+const email = ref('egowinasis@ut.ac.id')
+const password = ref('053062337')
 const error = ref('')
 
 const showForgot = ref(false)

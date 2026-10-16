@@ -39,6 +39,14 @@ export const dataPengguna = [
     role: "Administrator",
     lokasi: "Pusat"
   }
+  {
+    id: 6,
+    nama: "Ego Winasis",
+    email: "egowinasis@ut.ac.id",
+    password: "053062337",
+    role: "Administrator",
+    lokasi: "Pusat"
+  }
 ]
 
 export const dataBahanAjar = [
